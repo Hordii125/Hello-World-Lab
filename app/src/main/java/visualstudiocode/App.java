@@ -9,4 +9,3 @@ public class App {
         System.out.println(helloWorld.getGreeting()); // Calling the getGreeting method and printing the result
     }
 }
-//aboba
